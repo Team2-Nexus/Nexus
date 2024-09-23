@@ -3,10 +3,7 @@
   
 ### Saas형 프로젝트 관리 시스템, Nexus 👨‍💻
 
-[<img src="https://img.shields.io/badge/release-v1.1.6-critical?style=flat&logo=google-chrome&logoColor=white" />](https://github.com/woowacourse-teams/2022-dallog/releases/tag/v1.1.6)
-
-[](https://dallog.me)
-
+<img src="https://img.shields.io/badge/release-2024.09.23-critical?style=flat&logo=google-chrome&logoColor=white" />
 </div>
 
 ## :smiley: 소개
@@ -23,26 +20,34 @@ Nexus의 가장 큰 장점은 별도의 전산실이나 서버 관리가 필요 
 
 ### Front-end
 <div>
-  <img src="https://img.shields.io/badge/JAVAScript-181717?style=flat-square&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JQuery-181717?style=flat-square&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML/CSS-181717?style=flat-square&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-181717?style=flat-square&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-181717?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
 ### Back-end
 <div>
-  <img src="https://img.shields.io/badge/JAVA-181717?style=flat-square&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring 전자정부프레임워크 4.0-181717?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/전자정부프레임워크 4.0-0054A6?style=for-the-badge&logoColor=white"/>
 </div>
 
 ### DB
 <div>
-  <img src="https://img.shields.io/badge/Oracle-181717?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </div>
 
-## 🔀 ERD Design
 
-![ERD](https://github.com/user-attachments/assets/95a1e86e-1bea-4ae6-abb7-b73446fd6cfc)
+## 🔀 ERD Design
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/95a1e86e-1bea-4ae6-abb7-b73446fd6cfc" />
+</div>
 
 ## 🖥 서비스 화면
+<div align="center">
+<img src="https://github.com/user-attachments/assets/01c4af34-eac6-47b8-974e-9e33bbb51722" />
+  
+### Nexus 메인페이지
+</div>
