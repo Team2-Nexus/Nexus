@@ -51,3 +51,9 @@ Nexus의 가장 큰 장점은 별도의 전산실이나 서버 관리가 필요 
   
 ### Nexus 메인페이지
 </div>
+
+## 👥 Members
+
+|                   FullStack Developer                   |                      FullStack Developer                      |                     FullStack Developer                     |                   FullStack Developer                   |                    FullStack Developer                   |                  FullStack Developer                  |
+| :------------------------------------------: | :------------------------------------------------: | :----------------------------------------------: | :------------------------------------------: | :--------------------------------------------: | :-----------------------------------------: |
+|  [PL(김성도)](https://github.com/)  |  [TA(이준수)](https://github.com/)  |  [BA(추석준)](https://github.com/)  |  [AA(이현승)](https://github.com/)  |  [DA(박동성)](https://github.com/)  |  [UA(길도연)](https://github.com/DoYean)  |
