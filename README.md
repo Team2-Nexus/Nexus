@@ -1,2 +1,3 @@
-![타이틀](https://github.com/user-attachments/assets/1b80ab4f-ec07-4244-91dc-b80938e2b256)
+![타이틀](https://github.com/user-attachments/assets/8b870300-c9eb-4d2c-9e9b-89742ef745ed)
 # Nexus
+
